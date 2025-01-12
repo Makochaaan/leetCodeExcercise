@@ -51,6 +51,6 @@ memory : 16.4mb <br>
 
 
 ## point
-1\. reduce redundantal injection(ex. num1 = nums[m])
-2\. modify arguements
-3\. if you need number, make it easy to search number(ex. you don't make dict like check[i]=n. You do not need i and to search i you have to add code.)
+1\. reduce redundantal injection(ex. num1 = nums[m]) <br>
+2\. modify arguements <br>
+3\. if you need number, make it easy to search number(ex. you don't make dict like check[i]=n. You do not need i and to search i you have to add code.) <br>
