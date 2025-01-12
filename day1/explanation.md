@@ -1,6 +1,7 @@
 # twoSum
 
 ## my answer
+'''
 class Solution:
     def twoSum(self, nums:list[int], target:int):
         for i in range(len(nums)):
@@ -9,6 +10,7 @@ class Solution:
                 num2 = nums[j]
                 if num1 + num2 == target:
                     return [i, j]
+'''
 
 ### result
 status: accepted
@@ -16,6 +18,7 @@ time: 2151ms
 memory: 18.36mb
 
 ## best solution1
+'''
 class Solution:
     def twoSum(self, nums:list[int], target:int):
         check = {}
@@ -24,6 +27,7 @@ class Solution:
                 return [check[target - n],i]
             else:
                 check[n] = i
+'''
 
 ### result
 status: accepted
@@ -31,12 +35,14 @@ time: 0ms
 memory: 19mb
 
 ## best solution2
+'''
 class Solution:
     def twoSum(self, nums:list[int], target:int):
         for m in range(len(nums)):
             for n in range(m+1,len(nums)):
                 if nums[m]+nums[n] == target:
                     return (m,n)
+'''
 
 ### result
 status: accepted
