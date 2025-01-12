@@ -13,9 +13,9 @@ class Solution:
 ~~~
 
 ### result
-status: accepted
-time: 2151ms
-memory: 18.36mb
+status: accepted <br>
+time: 2151ms <br>
+memory: 18.36mb <br>
 
 ## best solution1
 ~~~
@@ -30,9 +30,9 @@ class Solution:
 ~~~
 
 ### result
-status: accepted
-time: 0ms
-memory: 19mb
+status: accepted <br>
+time: 0ms <br>
+memory: 19mb <br>
 
 ## best solution2
 ~~~
@@ -45,9 +45,9 @@ class Solution:
 ~~~
 
 ### result
-status: accepted
-time: 1988ms
-memory : 16.4mb
+status: accepted <br>
+time: 1988ms <br>
+memory : 16.4mb <br>
 
 
 ## point
