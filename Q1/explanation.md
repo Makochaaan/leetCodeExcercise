@@ -17,7 +17,7 @@ status: accepted <br>
 time: 2151ms <br>
 memory: 18.36mb <br>
 
-## best solution1
+## best solution1(One-Pass Hash Table)
 ~~~
 class Solution:
     def twoSum(self, nums:list[int], target:int):
@@ -48,6 +48,11 @@ class Solution:
 status: accepted <br>
 time: 1988ms <br>
 memory : 16.4mb <br>
+
+## what I think
+I don't have the idea to store infos to dictionary. The idea is named "Hash Table", one kind of algorithms.
+My idea is based on brute force. That's not bad, but knowing more efficient method is very important.
+"Hash Table" is an algorithm to store relationships between two values(like str and int).
 
 
 ## point
