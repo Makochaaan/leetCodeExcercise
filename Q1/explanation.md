@@ -54,6 +54,9 @@ memory : 16.4mb <br>
 1\. reduce redundantal injection(ex. num1 = nums[m]) <br>
 2\. modify arguements <br>
 3\. if you need number, make it easy to search number(ex. you don't make dict like check[i]=n. You do not need i and to search i you have to add code.) <br>
+<<<<<<< HEAD:Q1/explanation.md
 
 ## Today's memorizing
 1\. i,n in enumerate(list) : return index and content at the same time 
+=======
+>>>>>>> fab28c4284683540fd09f22287e1bcd9052d62da:day1/explanation.md
