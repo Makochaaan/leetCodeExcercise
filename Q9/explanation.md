@@ -1,4 +1,4 @@
-# twoSum
+# palindrome number
 
 ## my answer
 ~~~
