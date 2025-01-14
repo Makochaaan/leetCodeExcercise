@@ -1,14 +1,3 @@
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js">
-</script>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-    tex2jax: {
-    inlineMath: [['$', '$'] ],
-    displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
-    }
-    });
-</script>
-
 # contains duplicate
 
 ## my answer
@@ -67,8 +56,8 @@ class Solution:
 ## point
 1\. dictionary is faster than list(I experienced). <br>
 2\. and set, is faster than dictionary.<br>
-3\. sort method using sort algorithm, so time complexity is $ O(nlogn) $. <br>
-4\. other method's complexity is $ O(n) $ . <br>
+3\. sort method using sort algorithm, so time complexity is $` O(nlogn) `$. <br>
+4\. other method's complexity is $` O(n) `$ . <br>
 
 ## good reference
 1\. I could use hash table algorithm.(rf.Q13) <br>
