@@ -25,10 +25,6 @@ class Solution:
         return str(x) == str(x)[::-1]
 ~~~
 
-### result
-status: accepted <br>
-time: 0ms <br>
-memory: 1mb <br>
 
 ## best solution2
 ~~~
