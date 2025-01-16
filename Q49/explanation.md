@@ -53,7 +53,7 @@ status: timed out <br>
 time: -- <br>
 memory: -- <br>
 
-## best solution1(sorting, O(mnlogn))
+## best solution1(sorting, $` O(mnlogn) `$)
 ~~~
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:    
@@ -66,7 +66,7 @@ class Solution:
         return list(ans.values())
 ~~~
 
-## best solution2(hash table using ASCII, O(mn))
+## best solution2(hash table using ASCII, $` O(mn) `$ )
 ~~~
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:    
