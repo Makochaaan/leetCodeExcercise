@@ -1,5 +1,3 @@
-from typing import List
-from collections import defaultdict
 class Solution1:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:    
         ans = defaultdict(list)
@@ -25,5 +23,3 @@ class Solution2:
         
         return list(ans.values())
     
-solver = Solution1()
-print(solver.groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
