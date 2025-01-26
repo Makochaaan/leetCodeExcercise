@@ -47,6 +47,7 @@ class Solution:
 2\. isalnum() extracts alphabet and number.<br>
 3\. In join(), you can use comprehension(内包表記). <br> 
 4\. When you use \W or \w as a regular expression, they excepts/contains alphabets, numbers, and under score.<br>
+5\. Regular Expression is called RegEx(レジエックス，レジェックス)
 
 ## good reference
 1\. Well done solution! It's almost perfect! <br>
