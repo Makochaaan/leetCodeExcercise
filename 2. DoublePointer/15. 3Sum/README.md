@@ -29,7 +29,7 @@ time: -- <br>
 memory: -- <br>
 comprexity: $`O(N)`$ <br>
 
-## best solution(using "".join, $` O(N^2) `$)
+## best solution(process duplicates, $` O(N^2) `$)
 ~~~
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
