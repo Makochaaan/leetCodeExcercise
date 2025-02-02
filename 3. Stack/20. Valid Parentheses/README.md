@@ -60,7 +60,6 @@ class Solution:
         
         return not stack
 ~~~
-thanks to rowe1227.
 
 ## point
 1\. Collecting the pair brutelly is one solutionally method.<br>
